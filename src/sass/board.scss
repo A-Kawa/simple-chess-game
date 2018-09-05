@@ -1,0 +1,8 @@
+.Board{
+    display: grid;
+    position: fixed;
+    grid-template-columns: repeat(8,12.5%);
+    grid-gap: 0%;
+    grid-column-gap: 0%;
+    margin-left: 25%;
+}

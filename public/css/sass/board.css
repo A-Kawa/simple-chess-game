@@ -1,0 +1,9 @@
+.Board {
+  display: grid;
+  position: static;
+  grid-template-columns: repeat(8, 12.5%); }
+
+.Figures {
+  position: absolute;
+  top: 40px;
+  left: 40px; }
